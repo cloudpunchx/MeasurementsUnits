@@ -1,0 +1,44 @@
+html{
+background-color: rgb(247, 222, 226);
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Do not repeat yourself in code.*/
+body > div{
+    height: 100px;
+    margin-top: -5px;
+    border: 5px solid black;
+}
+
+#one{
+    background-color: pink;
+    width: 10in;
+}
+
+#two{
+    background-color: rgb(89, 194, 176); 
+    width: 10cm;
+}
+
+#three{
+    background-color: rgb(183, 168, 236);
+    width: 10pc;
+}
+
+#four{
+    background-color: rgb(224, 191, 43);
+    width: 10mm;
+}
+
+#five{
+    background-color: rgb(245, 132, 39);
+    width: 10pt;
+}
+
+#six{
+    background-color: rgb(218, 59, 86);
+    width: 10px;
+}
